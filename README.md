@@ -36,4 +36,4 @@ Limbaje folosite
 
 Biblioteci/framework-uri
 
-React JS
+https://reactjs.org/
