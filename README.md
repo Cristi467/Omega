@@ -19,7 +19,10 @@ Imaginea arhitecturala
 
 
 ![R1](https://user-images.githubusercontent.com/92077697/136333600-775c9825-12b8-442a-ba7b-ef9305204e12.png)
+
+
 Resurse folosite
+
 Created with Visual Studio Code.
 
 Limbaje folosite
@@ -32,4 +35,5 @@ Limbaje folosite
 •PHP
 
 Biblioteci/framework-uri
+
 React JS
